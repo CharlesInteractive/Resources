@@ -25,15 +25,10 @@
 [PX to EM Conversion](http://pxtoem.com/)
 
 #### Javascript
-[Colored Console Output](https://developers.google.com/web/tools/chrome-devtools/console/?utm_campaign=2016q3&utm_medium=redirect&utm_source=dcc#styling-console-output-with-css)
-
-[Javascript Charts and Maps Library](https://www.amcharts.com/)
-
+##### Design
 [AnimeJS](https://animejs.com/)
 
-[Tilt.js](http://gijsroge.github.io/tilt.js/)
-
-[Push.js](https://github.com/Nickersoft/push.js)
+[Tilt.js - jQuery Block Tilt Effect](http://gijsroge.github.io/tilt.js/)
 
 [Vast jQuery Popup Overlay](https://github.com/vast-engineering/jquery-popup-overlay)
 
@@ -44,6 +39,21 @@
 ^Not sure how long this will work with the api shutting down
 
 [Particles.js](https://vincentgarreau.com/particles.js/)
+
+[AOS - Animate on Scroll](https://michalsnik.github.io/aos/)
+
+[Multiple.js - Multiple Container Sharing One Background](https://multiple.js.org/)
+
+##### Graphs and charts
+[Javascript Charts and Maps Library](https://www.amcharts.com/)
+
+[ChartJS](https://www.chartjs.org/)
+
+##### Other
+[Colored Console Output](https://developers.google.com/web/tools/chrome-devtools/console/?utm_campaign=2016q3&utm_medium=redirect&utm_source=dcc#styling-console-output-with-css)
+
+[Push.js - Push Notifications](https://github.com/Nickersoft/push.js)
+
 
 #### Accessibility
 [Google Chrome accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools)
