@@ -24,6 +24,8 @@
 
 [PX to EM Conversion](http://pxtoem.com/)
 
+[CSS antialiasing cheatsheet](https://devhints.io/css-antialias)
+
 #### Javascript
 ##### Design
 [AnimeJS](https://animejs.com/)
