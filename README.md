@@ -83,6 +83,6 @@ I haven't used this yet so idk if its good or not. Just something to reference.
 [8 Regular Expressions You Should Know](https://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
 
 #### Other Stuff
-[CSS Cups](https://www.zazzle.com/awesome+wedding+gifts)
+[Programmer Items](https://remembertheapi.com/)
 
 
