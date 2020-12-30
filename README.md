@@ -58,7 +58,6 @@
 
 [Push.js - Push Notifications](https://github.com/Nickersoft/push.js)
 
-
 #### Accessibility
 [Google Chrome accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools)
 
@@ -76,11 +75,17 @@ I haven't used this yet so idk if its good or not. Just something to reference.
 [Pexels](https://www.pexels.com/royalty-free-images/)
 
 #### Fonts
-
 [Signato](http://signato.lt/en/)
 
 #### RegEx
 [8 Regular Expressions You Should Know](https://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
+
+#### APIs
+[Open Secrets](https://www.opensecrets.org/open-data/api)
+
+[Mux](https://mux.com/)
+
+[Plaid](https://plaid.com/)
 
 #### Other Stuff
 [Programmer Items](https://remembertheapi.com/)
