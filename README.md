@@ -77,6 +77,9 @@ I haven't used this yet so idk if its good or not. Just something to reference.
 #### Fonts
 [Signato](http://signato.lt/en/)
 
+#### Next.js
+[Build an E-commerce platform/online store in 25 days using Next.js, Netlify and Stripe](https://e-commerce-in-25-days.netlify.app/)
+
 #### RegEx
 [8 Regular Expressions You Should Know](https://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
 
