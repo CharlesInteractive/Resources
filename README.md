@@ -64,8 +64,8 @@
 [Monsido Contrast Checker](https://monsido.com/tools/contrast-checker)
 
 #### Parallax
-[Tutorial 1](https://code.tutsplus.com/tutorials/a-simple-parallax-scrolling-technique--net-27641)
-I haven't used this yet so idk if its good or not. Just something to reference.
+[Tutorial 1 (I haven't used this yet so idk if its good or not. Just something to reference.)](https://code.tutsplus.com/tutorials/a-simple-parallax-scrolling-technique--net-27641)
+
 
 #### Free Images
 [Art Institvte Chicago](https://www.artic.edu/collection?is_public_domain=1)
@@ -78,6 +78,8 @@ I haven't used this yet so idk if its good or not. Just something to reference.
 [Signato](http://signato.lt/en/)
 
 #### Next.js
+[Next.js examples](https://nextexamples.vercel.app/)
+
 [Build an E-commerce platform/online store in 25 days using Next.js, Netlify and Stripe](https://e-commerce-in-25-days.netlify.app/)
 
 #### RegEx
