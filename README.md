@@ -38,10 +38,6 @@
 
 [bxSlider](https://github.com/stevenwanderski/bxslider-4)
 
-[jQuery Instagram Feed](https://github.com/jsanahuja/jquery.instagramFeed)
-
-^Not sure how long this will work with the api shutting down
-
 [Particles.js](https://vincentgarreau.com/particles.js/)
 
 [AOS - Animate on Scroll](https://michalsnik.github.io/aos/)
