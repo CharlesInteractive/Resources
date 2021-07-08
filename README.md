@@ -49,6 +49,9 @@
 
 [ChartJS](https://www.chartjs.org/)
 
+##### Forms
+[EmailJS](https://www.emailjs.com/)
+
 ##### Other
 [Colored Console Output](https://developers.google.com/web/tools/chrome-devtools/console/?utm_campaign=2016q3&utm_medium=redirect&utm_source=dcc#styling-console-output-with-css)
 
@@ -87,6 +90,9 @@
 [Mux](https://mux.com/)
 
 [Plaid](https://plaid.com/)
+
+#### Tools
+[Website Down Checker](https://uptimerobot.com/)
 
 #### Other Stuff
 [Programmer Items](https://remembertheapi.com/)
