@@ -57,6 +57,9 @@
 
 [Push.js - Push Notifications](https://github.com/Nickersoft/push.js)
 
+#### Databases
+[PlanetScale](https://www.planetscale.com/)
+
 #### Accessibility
 [Google Chrome accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools)
 
